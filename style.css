@@ -197,6 +197,7 @@ div.topBotomBordersOut a:hover:after {
   border: none;
   border-radius: 0.3em;
   height: 2.75em;
+  width: 60%;
   line-height: 2.5em;
   text-transform: uppercase;
   padding: 0 1em;
@@ -233,10 +234,14 @@ div.topBotomBordersOut a:hover:after {
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(110, 80, 20, 0.4),
     inset 0 -2px 5px 1px #b17d10, inset 0 -1px 1px 3px rgba(250, 227, 133, 1);
 }
+.golden-button .golden-text{
+display:block;
+width: 100%;
+}
 /** SUBSCRIBE */
 .Btn-gold {
-  width: 140px;
-  height: 40px;
+  width: 200px;
+  height: 45px;
   border: none;
   border-radius: 10px;
   background: linear-gradient(
